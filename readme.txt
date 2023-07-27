@@ -1,0 +1,1 @@
+This is a simple To Do List App. The goal is to have this app one day be able to notify you if you have not been able to finish tasks as an app complete with notifications and a calendar you can update times and dates on too maybe!
